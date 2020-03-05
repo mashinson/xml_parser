@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\xml_parser\xml_parser\bin\Debug\netcoreapp3.1\xml_parser.exe
+C:\Users\User\Desktop\xml_parser\xml_parser\bin\Debug\netcoreapp3.1\xml_parser.deps.json
+C:\Users\User\Desktop\xml_parser\xml_parser\bin\Debug\netcoreapp3.1\xml_parser.runtimeconfig.json
+C:\Users\User\Desktop\xml_parser\xml_parser\bin\Debug\netcoreapp3.1\xml_parser.runtimeconfig.dev.json
+C:\Users\User\Desktop\xml_parser\xml_parser\bin\Debug\netcoreapp3.1\xml_parser.dll
+C:\Users\User\Desktop\xml_parser\xml_parser\bin\Debug\netcoreapp3.1\xml_parser.pdb
+C:\Users\User\Desktop\xml_parser\xml_parser\obj\Debug\netcoreapp3.1\xml_parser.csprojAssemblyReference.cache
+C:\Users\User\Desktop\xml_parser\xml_parser\obj\Debug\netcoreapp3.1\xml_parser.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\xml_parser\xml_parser\obj\Debug\netcoreapp3.1\xml_parser.AssemblyInfo.cs
+C:\Users\User\Desktop\xml_parser\xml_parser\obj\Debug\netcoreapp3.1\xml_parser.dll
+C:\Users\User\Desktop\xml_parser\xml_parser\obj\Debug\netcoreapp3.1\xml_parser.pdb
